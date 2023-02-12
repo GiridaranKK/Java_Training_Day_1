@@ -1,12 +1,12 @@
 # Java_Training_Day_1
-Topics:
-  Oops
-  Features of oops
-  Class
-  Objects
-  functional programming
-  platform independant
-  Java Virtual Machine
-  Java Rubtime Environment
-  Java Development Kit
-  JVM architecture
+# Topics:
+  1.Oops
+  2.Features of oops
+  3.Class
+  4.Objects
+  5.functional programming
+  6.platform independant
+  7.Java Virtual Machine
+  8.Java Rubtime Environment
+  9.Java Development Kit
+  10.JVM architecture
